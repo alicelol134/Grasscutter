@@ -1058,7 +1058,7 @@ public final class PacketOpcodes {
 	public static final int AvatarCardChangeReq = 1;
 	public static final int AvatarCardChangeRsp = 1;
 	public static final int AvatarEnterElementViewNotify = 1;
-	public static final int AvatarEquipAffixStartNotify = 1;
+	public static final int AvatarEquipAffixStartNotify = 8492;
 	public static final int AvatarFollowRouteNotify = 1;
 	public static final int BackPlayCustomDungeonOfficialReq = 1;
 	public static final int BackPlayCustomDungeonOfficialRsp = 1;
